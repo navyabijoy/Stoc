@@ -3,7 +3,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: "AIzaSyD9HEUh_8X2Q5DzNhiu21cytQamB5JUaak",
   authDomain: "ai-pantry-tracker-91fe5.firebaseapp.com",
   projectId: "ai-pantry-tracker-91fe5",
   storageBucket: "ai-pantry-tracker-91fe5.appspot.com",
